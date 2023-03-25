@@ -15,6 +15,7 @@
 [![Ant-Design](https://img.shields.io/badge/-AntDesign-F7F7F7?style=for-the-badge&logo=ant-design&logoColor=0170FE)](https://ant.design/)
 [![Tauri](https://img.shields.io/badge/tauri-F7F7F7.svg?style=for-the-badge&logo=tauri&logoColor=24C8DB)](https://tauri.app/)
 [![Qt](https://img.shields.io/badge/Qt-F7F7F7.svg?style=for-the-badge&logo=Qt&logoColor=217346)](https://www.qt.io/)
+[![Iced](https://img.shields.io/badge/iced-F7F7F7.svg?style=for-the-badge&logo=iced&logoColor=1B4DFF)](https://iced.rs/)
 
 ### ☁️ Cloud Platforms/Technologies:
 [![AWS](https://img.shields.io/badge/AWS-F7F7F7.svg?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/)
