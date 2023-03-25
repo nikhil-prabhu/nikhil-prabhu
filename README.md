@@ -17,6 +17,9 @@
 [![Qt](https://img.shields.io/badge/Qt-F7F7F7.svg?style=for-the-badge&logo=Qt&logoColor=217346)](https://www.qt.io/)
 [![Iced](https://img.shields.io/badge/iced-F7F7F7.svg?style=for-the-badge&logo=iced&logoColor=1B4DFF)](https://iced.rs/)
 [![WebAssembly](https://img.shields.io/badge/webassembly-F7F7F7.svg?style=for-the-badge&logo=webassembly&logoColor=654FF0)](https://webassembly.org/)
+[![Windows](https://img.shields.io/badge/windows-F7F7F7.svg?style=for-the-badge&logo=windows&logoColor=00ADEF)](https://www.microsoft.com/windows/)
+[![macOS](https://img.shields.io/badge/macOS-F7F7F7.svg?style=for-the-badge&logo=apple&logoColor=black)](https://www.apple.com/macos/)
+[![Linux](https://img.shields.io/badge/linux-F7F7F7.svg?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org/)
 
 ### ☁️ Cloud Platforms/Technologies:
 [![AWS](https://img.shields.io/badge/AWS-F7F7F7.svg?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/)
