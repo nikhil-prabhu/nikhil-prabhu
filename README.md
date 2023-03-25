@@ -21,7 +21,7 @@
 [![Google Cloud](https://img.shields.io/badge/GoogleCloud-F7F7F7.svg?style=for-the-badge&logo=google-cloud&logoColor=4285F4)](https://cloud.google.com/)
 [![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-F7F7F7.svg?style=for-the-badge&logo=alibabacloud&logoColor=FF6701)](https://www.alibabacloud.com/)
 
-#### 🛠️ Other Tools/Technologies:
+### 🛠️ Other Tools/Technologies:
 [![Git](https://img.shields.io/badge/git-F7F7F7.svg?style=for-the-badge&logo=git&logoColor=F05033)](https://git-scm.com/)
 [![Ansible](https://img.shields.io/badge/ansible-F7F7F7.svg?style=for-the-badge&logo=ansible&logoColor=black)](https://www.ansible.com/)
 [![Docker](https://img.shields.io/badge/docker-F7F7F7.svg?style=for-the-badge&logo=docker&logoColor=0DB7ED)](https://www.docker.com/)
