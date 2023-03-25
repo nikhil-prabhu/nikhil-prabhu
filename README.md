@@ -13,7 +13,7 @@
 ### 📚 Frameworks and Libraries:
 [![React](https://img.shields.io/badge/react-F7F7F7.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 [![Ant-Design](https://img.shields.io/badge/-AntDesign-F7F7F7?style=for-the-badge&logo=ant-design&logoColor=0170FE)](https://ant.design/)
-[![Tauri](https://img.shields.io/badge/tauri-F7F7F7.svg?style=for-the-badge&logo=tauri&logoColor=FFC131)](https://tauri.app/)
+[![Tauri](https://img.shields.io/badge/tauri-F7F7F7.svg?style=for-the-badge&logo=tauri&logoColor=24C8DB)](https://tauri.app/)
 
 ### ☁️ Cloud Platforms/Technologies:
 [![AWS](https://img.shields.io/badge/AWS-F7F7F7.svg?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/)
