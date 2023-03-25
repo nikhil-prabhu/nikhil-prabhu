@@ -1,10 +1,3 @@
-
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-000000.svg?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://instagram.com/thedextrocardiac)
-[![LinkedIn](https://img.shields.io/badge/linkedin-000000.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/nikhil-prabhu31)
-[![Reddit](https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://reddit.com/user/_caramello_)
-[![Reddit](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/dextrocardiac#7813)
-
 # 💻 Tech Stack:
 ## 📋 Languages:
 ![Rust](https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust&logoColor=F74B00)
@@ -41,9 +34,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=nikhil-prabhu&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nikhil-prabhu&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-prabhu&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nikhil-prabhu&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nikhil-prabhu&icon=5&color=9)](https://visitcount.itsvg.in)
