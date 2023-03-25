@@ -7,6 +7,7 @@
 [![C++](https://img.shields.io/badge/c++-F7F7F7.svg?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)](https://isocpp.org/)
 [![TypeScript](https://img.shields.io/badge/typescript-F7F7F7.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
 [![Shell Script](https://img.shields.io/badge/shell_script-F7F7F7.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)](https://www.gnu.org/software/bash/)
+[![Perl](https://img.shields.io/badge/perl-F7F7F7.svg?style=for-the-badge&logo=perl&logoColor=39457E)](https://www.perl.org/)
 [![LaTeX](https://img.shields.io/badge/latex-F7F7F7.svg?style=for-the-badge&logo=latex&logoColor=008080)](https://www.latex-project.org/)
 
 ### 📚 Frameworks and Libraries:
