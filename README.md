@@ -35,6 +35,7 @@
 [![Docker](https://img.shields.io/badge/docker-F7F7F7.svg?style=for-the-badge&logo=docker&logoColor=0DB7ED)](https://www.docker.com/)
 [![Terraform](https://img.shields.io/badge/terraform-F7F7F7.svg?style=for-the-badge&logo=terraform&logoColor=5835CC)](https://www.terraform.io/)
 [![GNU Emacs](https://img.shields.io/badge/GNU%20Emacs-F7F7F7.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=7F5AB6)](https://www.gnu.org/s/emacs/)
+[![GoLand](https://img.shields.io/badge/goland-F7F7F7.svg?style=for-the-badge&logo=goland&logoColor=000000)](https://www.jetbrains.com/go/)
 [![Vim](https://img.shields.io/badge/VIM-F7F7F7.svg?style=for-the-badge&logo=vim&logoColor=11AB00)](https://www.vim.org/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-F7F7F7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078D7)](https://code.visualstudio.com/)
 
