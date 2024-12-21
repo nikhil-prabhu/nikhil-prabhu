@@ -1,5 +1,4 @@
 ## 💻 Tech Stack:
-### 📋 Languages:
 [![Rust](https://img.shields.io/badge/rust-F7F7F7.svg?style=for-the-badge&logo=rust&logoColor=F74B00)](https://www.rust-lang.org/)
 [![Python](https://img.shields.io/badge/python-F7F7F7?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Go](https://img.shields.io/badge/go-F7F7F7.svg?style=for-the-badge&logo=go&logoColor=00ADD8)](https://go.dev/)
