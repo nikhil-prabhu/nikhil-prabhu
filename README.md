@@ -10,8 +10,6 @@
 [![LaTeX](https://img.shields.io/badge/latex-F7F7F7.svg?style=for-the-badge&logo=latex&logoColor=008080)](https://www.latex-project.org/)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nikhil-prabhu&theme=swift&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nikhil-prabhu&theme=swift&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-prabhu&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=nikhil-prabhu&icon=5&color=12)](https://visitcount.itsvg.in)
