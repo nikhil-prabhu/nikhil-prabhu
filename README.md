@@ -33,10 +33,10 @@
 
 <br/>
 
-Building tools that make developers' lives easier.
-Passionate about distributed systems, developer experience, and the open-source ecosystem.
+Crafting high-performance systems and declarative development environments.
+Passionate about developer experience, automation, and type-safe ecosystems.
 
-**Currently at** Stellar Labs — San Francisco, CA
+**Currently at** Autodesk — Bangalore, India
 </details>
 
 <br/>
