@@ -38,7 +38,6 @@ galaxy_arms:
     items:
       - "TypeScript"
       - "React"
-      - "Tailwind"
   - name: "Backend"
     color: "synapse_cyan"
     items:
@@ -59,11 +58,14 @@ galaxy_arms:
 #   description: "..."        — Short description shown on the card
 projects:
   - repo: "nikhil-prabhu/ergosphere"
-    arm: 0
+    arm: 1
     description: "A reactive, event-driven push replication daemon for Pi-hole v6 replica setups."
   - repo: "nikhil-prabhu/cloud-detect"
-    arm: 1
+    arm: 2
     description: "A Rust library to detect the cloud service provider of a host."
+  - repo: "nikhil-prabhu/portfolio"
+    arm: 0
+    description: "My Portfolio website; design inspired by the hit video game Balatro, by LocalThunk."
 
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
